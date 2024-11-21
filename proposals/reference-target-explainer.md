@@ -136,7 +136,7 @@ This feature is intended to work with **all** attributes that refer to another e
   - `list`
   - `popovertarget`
   - `anchor` (proposed in the [Popover API Explainer](https://open-ui.org/components/popover.research.explainer/#anchoring))
-  - `invoketarget` (proposed in [Invokers Explainer](https://open-ui.org/components/invokers.explainer/))
+  - `commandfor` (proposed in [Invokers Explainer](https://open-ui.org/components/invokers.explainer/))
   - `interesttarget` (proposed in [Invokers Explainer](https://open-ui.org/components/invokers.explainer/))
 - Tables
   - `headers`
